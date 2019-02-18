@@ -1,0 +1,4 @@
+{
+    "enable": true,
+    "mockServer": "https://anymock.alipay.com/mock/external"
+}
